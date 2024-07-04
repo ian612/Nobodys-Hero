@@ -1,0 +1,50 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Hegal Crescent.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Hegal Crescent.tmx": {
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 80,
+                "y": 162.125
+            }
+        },
+        "House Exterior.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "House Interior.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/ib612/Documents/Nobodys Hero/Tiled maps/Tileset images",
+    "map.height": 18,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 25,
+    "openFiles": [
+        "House Interior.tsx",
+        "House Exterior.tsx",
+        "Hegal Crescent.tmx"
+    ],
+    "project": "Nobodys Hero.tiled-project",
+    "recentFiles": [
+        "House Interior.tsx",
+        "House Exterior.tsx",
+        "Hegal Crescent.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
