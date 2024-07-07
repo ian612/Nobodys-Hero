@@ -1837,23 +1837,6 @@
                     "height": 2,
                     "script": [
                         {
-                            "command": "EVENT_ACTOR_MOVE_TO",
-                            "args": {
-                                "actorId": "$self$",
-                                "x": {
-                                    "type": "number",
-                                    "value": 23
-                                },
-                                "y": {
-                                    "type": "number",
-                                    "value": 18
-                                },
-                                "moveType": "horizontal",
-                                "useCollisions": false
-                            },
-                            "id": "ea0f3078-7773-4948-b260-ddd33730104e"
-                        },
-                        {
                             "command": "EVENT_SWITCH_SCENE",
                             "args": {
                                 "sceneId": "3e60a809-38b7-4085-bdcc-8c701c940463",
@@ -1883,23 +1866,6 @@
                     "height": 2,
                     "script": [
                         {
-                            "command": "EVENT_ACTOR_MOVE_TO",
-                            "args": {
-                                "actorId": "$self$",
-                                "x": {
-                                    "type": "number",
-                                    "value": 3
-                                },
-                                "y": {
-                                    "type": "number",
-                                    "value": 6
-                                },
-                                "moveType": "horizontal",
-                                "useCollisions": false
-                            },
-                            "id": "f33b3d64-e2f3-436e-b014-fa6aee079f86"
-                        },
-                        {
                             "command": "EVENT_SWITCH_SCENE",
                             "args": {
                                 "sceneId": "3e60a809-38b7-4085-bdcc-8c701c940463",
@@ -1928,23 +1894,6 @@
                     "width": 2,
                     "height": 2,
                     "script": [
-                        {
-                            "command": "EVENT_ACTOR_MOVE_TO",
-                            "args": {
-                                "actorId": "$self$",
-                                "x": {
-                                    "type": "number",
-                                    "value": 8
-                                },
-                                "y": {
-                                    "type": "number",
-                                    "value": 16
-                                },
-                                "moveType": "horizontal",
-                                "useCollisions": false
-                            },
-                            "id": "e92b324f-4adb-4485-a4d8-7e440af52967"
-                        },
                         {
                             "command": "EVENT_SWITCH_SCENE",
                             "args": {
@@ -4841,8 +4790,8 @@
         "showConnections": true,
         "showCollisionSlopeTiles": false,
         "showCollisionExtraTiles": false,
-        "worldScrollX": 814,
-        "worldScrollY": 351,
+        "worldScrollX": 969.5999755859375,
+        "worldScrollY": 548.7999877929688,
         "zoom": 382.56028003618076,
         "sgbEnabled": false,
         "customHead": "",
